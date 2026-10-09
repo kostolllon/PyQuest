@@ -3,7 +3,7 @@
 Откройте терминал и выполните:
 
 bash
-git clone https://github.com/ВАШ_НИК/PyQuest.git
+git clone https://github.com/kostolllon/PyQuest.git
 cd PyQuest
 Вариант Б — через ZIP-архив (проще)
 Откройте страницу репозитория на GitHub.
